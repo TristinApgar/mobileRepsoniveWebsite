@@ -1,0 +1,96 @@
+main {
+    margin: 60px 0px 0px 0px;
+}
+
+.plantsInfo {
+    background-color:rgb(80, 200, 80);
+    border-radius:10px;
+    margin: 0px 0px 10px 0px;
+}
+
+.zombiesInfo {
+    background-color:rgb(200, 100, 200);
+    border-radius:10px;
+    margin: 0px 0px 10px 0px;
+}
+
+.bossmodeInfo {
+    background-color: rgb(50,50,100);
+    color:white;
+    border-radius:10px;
+    margin: 0px 0px 10px 0px;
+}
+
+.heder{
+    width:60%; 
+    text-align:center; 
+    margin:auto;
+}
+
+.sb {
+    height:20px;
+    width:40px;
+    font-size:10px;
+}
+
+.bgc{
+    background-color:rgba(80,80,80,0.90);
+}
+
+.tb{
+    background-color:rgba(0,0,0,0);
+    color:white;
+}
+
+body {
+    background-image: url("https://cdn.videogamesblogger.com/wp-content/uploads/2015/06/plants-vs-zombies-garden-warfare-wallpaper-official-artwork.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align:center;
+}
+
+.safeplace{
+    background-image: url("https://i.pinimg.com/originals/f2/e4/02/f2e40274486451415a72310d2d99e73a.png");
+    background-position: center;
+    text-align:center;
+}
+
+p {
+    text-align:left;
+}
+
+
+.plantsLogo {
+    text-align: center;
+}
+
+.teamImg {
+    position: center;
+    text-align: left;
+}
+
+.card-subtitle {
+    margin: 15px 0px 0px 0px;
+    padding: 15px 15px 15px 15px;
+}
+
+h3 {
+    text-align:left;
+}
+
+a{
+    color:white;
+    font-weight:bold;
+}
+
+audio {
+    width: 250px;
+}
+
+img{
+    border-radius:5px;
+    margin-top:5px;
+    max-height:200;
+    max-width:200;
+}
